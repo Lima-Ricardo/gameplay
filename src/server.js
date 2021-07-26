@@ -9,8 +9,3 @@ server.use(express.json())
 server.use(app)
 
 server.listen(port, err => !err ? console.log('server is running...'): console.log("server is not running..."))
-
-
-batata
-mongo
-ferrou!
